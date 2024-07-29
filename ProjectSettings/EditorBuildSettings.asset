@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2676f17a2755b2d488f71a0697e86e6b
+  - enabled: 1
+    path: Assets/Scenes/NormalMode.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HardMode.unity
+    guid: fc99c7f8a0554f043bbad14b57968627
+  - enabled: 1
+    path: Assets/Scenes/EscapeSceneNormal.unity
+    guid: 3aea7a78b8a82af42a9ea47a618c8fc7
+  - enabled: 1
+    path: Assets/Scenes/EscapeSceneHard.unity
+    guid: 116af8a6c73df764b90bd46ae0ff87c2
+  m_configObjects: {}
